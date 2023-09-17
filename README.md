@@ -1,1 +1,3 @@
-# PUG-GANDAS
+# GANDAS (Gandalf) - Gerenciamento Avançado de Níveis de Acesso e Segurança
+
+...
